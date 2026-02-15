@@ -16,10 +16,6 @@ A real-time currency converter web application built using HTML, CSS, and JavaSc
 - JavaScript (ES6)
 - Exchange Rate API
 
-## 📸 Preview
-
-![Preview](assets/screenshots/preview.png)
-
 ## 🔮 Future Improvements
 
 - Add historical exchange rate graphs
